@@ -1,0 +1,15 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#FF6B6B" stop-opacity="0.7"/>
+      <stop offset="1" stop-color="#6C5CE7" stop-opacity="0.7"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="320" fill="url(#g2)" opacity="0.12"/>
+  <g stroke="#FF6B6B" stroke-width="2" opacity="0.6" fill="none">
+    <path d="M0,160 C200,220 600,100 800,160"/>
+  </g>
+  <g opacity="0.9">
+    <text x="24" y="40" font-family="Inter, sans-serif" font-size="20" fill="#6C5CE7">Projeto Placeholder</text>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<svg width="800" height="320" viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#00D2FF" stop-opacity="0.8"/>
+      <stop offset="1" stop-color="#6C5CE7" stop-opacity="0.8"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="800" height="320" fill="url(#g3)" opacity="0.12"/>
+  <g stroke="#6C5CE7" stroke-width="2" opacity="0.6" fill="none">
+    <rect x="60" y="60" width="240" height="180" rx="16"/>
+    <rect x="320" y="60" width="240" height="180" rx="16"/>
+    <rect x="580" y="60" width="160" height="180" rx="16"/>
+    <line x1="180" y1="60" x2="180" y2="240"/>
+    <line x1="440" y1="60" x2="440" y2="240"/>
+  </g>
+  <g opacity="0.9">
+    <text x="24" y="40" font-family="Inter, sans-serif" font-size="20" fill="#00D2FF">FisioGestor – Agenda Inteligente</text>
+  </g>
+</svg>
